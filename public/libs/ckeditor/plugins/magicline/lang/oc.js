@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("magicline","oc",{title:"Inserir un paragraf aicí"});

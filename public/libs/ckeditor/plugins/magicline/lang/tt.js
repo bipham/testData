@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("magicline","tt",{title:"Бирегә параграф өстәү"});

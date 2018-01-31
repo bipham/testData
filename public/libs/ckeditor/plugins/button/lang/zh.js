@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","zh",{selectedLabel:"%1 (已選取)"});

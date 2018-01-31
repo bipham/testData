@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","de-ch",{selectedLabel:"%1 (Ausgewählt)"});

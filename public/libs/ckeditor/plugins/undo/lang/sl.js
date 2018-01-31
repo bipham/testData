@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("undo","sl",{redo:"Uveljavi",undo:"Razveljavi"});

@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","lt",{selectedLabel:"%1 (Pasirinkta)"});

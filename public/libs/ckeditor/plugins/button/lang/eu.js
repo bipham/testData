@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","eu",{selectedLabel:"%1 (hautatuta)"});

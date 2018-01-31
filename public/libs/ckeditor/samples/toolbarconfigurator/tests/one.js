@@ -1,0 +1,1 @@
+describe("Full toolbar configurator",function(){var o=ToolbarConfigurator.FullToolbarEditor;it("exists",function(){expect(o).to.be.a("function")})});

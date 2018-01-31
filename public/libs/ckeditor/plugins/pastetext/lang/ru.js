@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("pastetext","ru",{button:"Вставить только текст",pasteNotification:"Your browser does not allow you to paste plain text this way. Press %1 to paste."});

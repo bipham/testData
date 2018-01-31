@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("list","oc",{bulletedlist:"Inserir/Suprimir una lista amb de piuses",numberedlist:"Inserir/Suprimir una lista numerotada"});

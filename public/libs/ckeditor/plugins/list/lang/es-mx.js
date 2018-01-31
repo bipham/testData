@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("list","es-mx",{bulletedlist:"Insertar/Remover Lista con viñetas",numberedlist:"Insertar/Remover Lista numerada"});

@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("list","nb",{bulletedlist:"Legg til / fjern punktliste",numberedlist:"Legg til / fjern nummerert liste"});

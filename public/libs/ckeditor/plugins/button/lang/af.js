@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","af",{selectedLabel:"%1 uitgekies"});

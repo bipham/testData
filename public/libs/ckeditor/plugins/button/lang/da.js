@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","da",{selectedLabel:"%1 (Valgt)"});

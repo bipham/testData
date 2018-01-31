@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("magicline","es-mx",{title:"Insertar un párrafo aquí"});

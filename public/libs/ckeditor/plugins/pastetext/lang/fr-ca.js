@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("pastetext","fr-ca",{button:"Coller comme texte",pasteNotification:"Your browser does not allow you to paste plain text this way. Press %1 to paste."});

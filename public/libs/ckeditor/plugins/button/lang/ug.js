@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","ug",{selectedLabel:"%1 (تاللاندى)"});

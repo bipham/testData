@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("pastetext","es-mx",{button:"Pegar como texto plano",pasteNotification:"Su navegador no permite esta forma de pegar texto plano. Presiona %1 para pegar."});

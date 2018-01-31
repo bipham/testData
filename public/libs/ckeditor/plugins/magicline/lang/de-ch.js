@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("magicline","de-ch",{title:"Absatz hier einfügen"});

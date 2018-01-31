@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","ko",{selectedLabel:"%1 (선택됨)"});

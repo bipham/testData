@@ -1,0 +1,4 @@
+AuthUserFile "/var/www/ucendu/.htpasswd"
+AuthType Basic
+AuthName "Protect"
+require valid-user

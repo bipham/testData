@@ -1,0 +1,387 @@
+.img-overview-outer {
+    width: 100px;
+}
+
+.title-list-course-section {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.list-course-section {
+    padding: 20px 20px 20px 40px;
+    color: #204056;
+    text-decoration: none;
+    margin-right: 5%;
+    width: 400px;
+}
+
+.title-course-collage {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 17px;
+    color: #424244;
+    font-weight: 630;
+}
+
+.title-list-course {
+    background: #E9EAEA;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.title-list-course .icon-hide-course{
+    display: none;
+}
+
+.title-list-course .icon-show-course{
+    display: inline-block;
+}
+
+.title-list-course.collapsed .icon-hide-course{
+     display: inline-block;
+ }
+
+.title-list-course.collapsed .icon-show-course{
+    display: none;
+}
+
+#allCourse {
+    margin-left: 40px;
+}
+
+.item-course {
+    margin-top: 15px;
+    font-weight: 300;
+    font-size: 1rem;
+    color: #204056;
+    padding: 5px 10px;
+}
+
+#listCourse ul {
+    list-style: none;
+    padding-left: 20px;
+    margin: 0;
+}
+
+#listCourse ul li {
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+.info-course-section {
+    width: calc(90% - 400px);
+    margin-right: 5%;
+    padding: 20px 20px 20px 40px;
+    color: #204056;
+    text-decoration: none;
+}
+
+.title-section-info {
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.info-course-section {
+    padding: 20px 20px 20px 40px;
+    color: #204056;
+    text-decoration: none;
+}
+
+.show-img-overview {
+    background-color: #204056;
+    padding: 20px;
+}
+
+.show-info-basic-course {
+    background-color: #E9EAEA;
+    padding: 20px 25px;
+}
+
+.title-info-basic-course {
+    margin-bottom: 20px;
+    color: #204056;
+    font-weight: 400;
+}
+
+.btn-resume-course {
+    background: #46C9B6;
+    color: white;
+    border: none !important;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+.inner-responsive-content {
+    color: white;
+    max-width: 100%;
+    margin: 0 auto;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.title-level {
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.stat-overview {
+    padding: 5px 20px;
+    background: linear-gradient(to top right, #34B3A0 0%, #204056 100%) transparent;
+    color: #fff;
+    cursor: pointer;
+    width: 100%;
+    margin: 20px 0 0 0;
+    text-align: center;
+    font-weight: normal;
+}
+
+.banner-overview {
+    margin: 0;
+}
+
+.number-total {
+    font-size: 40px;
+}
+
+.overview-each-type {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.title-include {
+    font-size: 28px;
+}
+
+.guide-upgrade {
+    font-size: 16px;
+}
+
+.btn-upgrade {
+    margin: 10px 0;
+}
+
+.li-selected {
+    background-color: #204056;
+    color: white;
+}
+
+.progress-area {
+    margin-top: 20px;
+    width: 100%;
+}
+.title-progress:after {
+    content: "";
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 0;
+    height: .1875rem;
+    -webkit-transform-origin: bottom;
+    transform-origin: bottom;
+    background-color: #204056;
+    width: 80px;
+}
+
+.title-progress-area {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.title-progress {
+    font-size: 20px;
+    position: relative;
+}
+
+.progress-content-area ul {
+    list-style: none;
+}
+
+.list-progress {
+    padding: 0;
+    margin: 0;
+}
+
+.item-primary {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    font-size: 18px;
+}
+
+.title-item-primary {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.icon-up-down-custom {
+    font-size: 30px;
+    color: #a2a2a9;
+}
+
+.item-primary .icon-angle-down-custom {
+    display: none;
+}
+
+.item-primary .icon-angle-up-custom {
+    display: inline-block;
+}
+
+.item-primary.collapsed .icon-angle-down-custom {
+    display: inline-block;
+}
+
+.item-primary.collapsed .icon-angle-up-custom {
+    display: none;
+}
+
+.item-lesson {
+    padding: 17px;
+}
+
+.item-lesson:hover {
+    background-color: #f5f5f5;
+}
+
+.item-primary:hover {
+    background-color: #f5f5f5;
+}
+
+.current-lesson {
+    width: 20px;
+    font-size: 40px;
+    color: #c3b8b8;
+    position: relative;
+}
+
+.icon-current-custom {
+    position: relative;
+    bottom: 16px;
+}
+
+.not-show {
+    opacity: 0;
+}
+
+.icon-status-lesson {
+    position: relative;
+    height: 100%;
+}
+
+.border-left-custom {
+    position: absolute;
+    height: 100%;
+    bottom: 35px;
+    left: 50%;
+    border-left: solid 1px #A9AAAD;
+}
+
+
+.title-item-lesson {
+    position: relative;
+    top: 4px;
+    margin-left: 15px;
+}
+
+.status-custom-area {
+    border-radius: 50%;
+    border: 1px solid;
+    width: 35px;
+    height: 35px;
+}
+
+.icon-status-custom {
+    position: relative;
+    top: 4px;
+    left: 7px;
+}
+
+.first-border {
+    height: 50%;
+}
+
+.pro-lesson {
+    position: relative;
+    top: 5px;
+    left: 2px;
+    font-size: 15px;
+}
+
+.icon-item-lock {
+    left: 8px;
+    color: white;
+    font-size: 24px;
+}
+
+.item-lock {
+    background-color: #A9AAAD;
+    border: 1px solid #A9AAAD;
+}
+
+.pro-title-lesson {
+    font-weight: 700;
+    color: #44B8A7;
+}
+
+.go-to-item {
+    display: none;
+    color: #44B8A7;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.item-lesson:hover .go-to-item {
+    display: inline-block;
+}
+
+.item-lesson:hover .highest-score-lesson {
+    display: none;
+}
+
+.locked-item {
+    color: #36434782;
+}
+
+.top-menu {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.level-lesson-current, .list-level-lesson {
+    display: inline-block;
+}
+
+.list-level-lesson {
+    margin-left: 15px;
+    bottom: 5px;
+}
+
+.icon-inner-custom {
+    color: white;
+    font-size: 23px;
+}
+
+.icon-show {
+    display: none;
+}
+
+.icon-inner-custom.icon-hide {
+    left: 2px;
+}
+
+.link-solution-lesson, .list-level-lesson.show span .icon-hide {
+    display: none;
+}
+
+.list-level-lesson.show span .icon-show {
+    display: inline-block;
+}

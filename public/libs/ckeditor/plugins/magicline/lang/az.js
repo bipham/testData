@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("magicline","az",{title:"Abzası burada əlavə et"});

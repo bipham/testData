@@ -1,0 +1,1 @@
+function updateOrderChapterStory(e,r,d){e=e||"";var t="";$(".list-ordered-"+e).empty(),$.each(d,function(e,r){t+="<li>"+r.order_lesson+"</li>"}),$(".list-ordered-"+e).append(t),$("#order_chapter"+e).val(r)}

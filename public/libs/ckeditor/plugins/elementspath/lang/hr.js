@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("elementspath","hr",{eleLabel:"Putanje elemenata",eleTitle:"%1 element"});

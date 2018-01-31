@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("button","ku",{selectedLabel:"%1 (هەڵبژێردراو)"});
